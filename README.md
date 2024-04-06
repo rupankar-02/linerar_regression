@@ -1,2 +1,2 @@
 # linerar_regression
-Author-Rupanakr Mitra
+Author-Rupanakar Mitra
